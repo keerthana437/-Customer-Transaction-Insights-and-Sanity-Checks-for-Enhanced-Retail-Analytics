@@ -1,46 +1,56 @@
-# E-Commerce Customer & Transaction Analysis 📊
+# 📊 Customer & Transaction Data Analysis
 
 ## 📌 Project Overview
 
-This project analyzes **customer and transaction data** using Python. The customer and transaction datasets are merged to study spending patterns, returns, discounts, payment methods, order timing, and product value categories.
+This project is an **Exploratory Data Analysis (EDA)** of customer and transaction data using Python.
+
+The analysis focuses on understanding **customer spending, transactions, returns, discounts, payment methods, and purchasing patterns**.
+
+## 🎯 Objectives
+
+* Clean and prepare the data
+* Combine customer and transaction datasets
+* Analyze customer spending
+* Identify return patterns
+* Analyze discounts and order volume
+* Study purchasing patterns
+* Create meaningful visualizations
 
 ## 🛠️ Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+* 🐍 Python
+* 🐼 Pandas
+* 🔢 NumPy
+* 📊 Matplotlib
+* 📈 Seaborn
+* 📓 Jupyter Notebook
 
 ## 🔍 Key Analysis
 
-* Merged customer and transaction datasets
-* Analyzed spending by **Product, State, and Payment Method**
-* Identified the **Top 5 spending categories**
-* Analyzed return patterns by **State and Age**
-* Studied the relationship between **discounts and returns**
-* Analyzed orders by **hour of the day**
-* Compared discounts offered by different **payment methods**
-* Classified products into **High Value and Low Value** categories
-* Studied the impact of **discounts on order volume**
+* Customer & transaction analysis
+* Spending by product and state
+* Payment method analysis
+* Return analysis
+* Discount analysis
+* Order volume analysis
+* Data visualization
 
-## 📈 Visualizations
+## 📂 Project Files
 
-The project includes visualizations for:
+```text
+📁 Customer-Transaction-Analysis
+│
+├── 📓 Second______Project.ipynb
+├── 📄 customer_datasets.csv
+├── 📄 datasets.csv
+└── 📖 README.md
+```
 
-* Orders per hour
-* Discount vs. order volume
-* Spending and transaction patterns
+## 💡 Skills Gained
 
-## 🎯 Objective
+**Python | Data Cleaning | Data Analysis | Pandas | NumPy | EDA | Data Visualization**
 
-The main objective is to use **Exploratory Data Analysis (EDA)** to understand customer purchasing behavior and identify useful patterns related to spending, returns, discounts, and transactions.
+## 📌 Conclusion
 
-## 📁 Project File
+This project helped me understand how to **clean, merge, analyze, and visualize real-world customer and transaction data**. The analysis provided insights into **spending behavior, returns, discounts, and order patterns** while strengthening my practical skills in Python and Exploratory Data Analysis.
 
-* `Project 2.ipynb` – Complete analysis and visualizations
-
-## 👉 Conclusion
-
-This project demonstrates practical skills in **data cleaning, dataset merging, grouping, statistical analysis, correlation analysis, and data visualization** using Python.
